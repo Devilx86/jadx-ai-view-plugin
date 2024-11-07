@@ -35,7 +35,7 @@ jadx-gui plugins --uninstall jadx-ai-view
 ```
 
 ## Credits
-- Skylot - [Jadx](https://github.com/skylot/jadx), [plugin template and usage](https://github.com/skylot/jadx/wiki/Jadx-plugins-guide).
+- Skylot - [Jadx](https://github.com/skylot/jadx), [plugin template](https://github.com/skylot/jadx/wiki/Jadx-plugins-guide) and [usage](https://github.com/skylot/jadx/issues/2305#issuecomment-2420607111).
 - [timschneeb](https://github.com/timschneeb/jadx-type-diagram-plugin) - Jadx API usage reference.
 - [MartinKayJr](https://github.com/skylot/jadx/issues/1884#issue-1727047157) - Default prompt engineering.
 - xtekky - [gpt4free](https://github.com/xtekky/gpt4free).
