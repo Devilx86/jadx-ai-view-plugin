@@ -28,6 +28,12 @@ Jadx > 1.5.0 is required, please install the latest version of the Jadx unstable
  jadx-gui plugins --install "github:devilx86:jadx-ai-view-plugin"
 ```
 
+## Uninstallation
+Run the following command to uninstall the plugin:
+```bash
+jadx-gui plugins --uninstall jadx-ai-view 
+```
+
 ## Credits
 - Skylot - [Jadx](https://github.com/skylot/jadx), [plugin template and usage](https://github.com/skylot/jadx/wiki/Jadx-plugins-guide).
 - [timschneeb](https://github.com/timschneeb/jadx-type-diagram-plugin) - Jadx API usage reference.
