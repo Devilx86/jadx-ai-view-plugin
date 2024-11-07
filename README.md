@@ -1,4 +1,4 @@
-# Jadx AI View plugin
+# Jadx AI view plugin
 A (Work in progress) Jadx plugin that shows AI analysis of a method/class in a separate view allowing a reverse engineer to compare code and the AI analysis to understand it better. Currently supports gpt4free gpt 3.5 turbo, Gemini 1.5 flash and OpenAI GPT 4.0 mini.
 
 ## Usage
