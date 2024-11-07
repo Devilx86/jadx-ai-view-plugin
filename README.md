@@ -20,12 +20,12 @@ python3 -m pip install g4f
 ## Building
 Execute the following command to build the jar file:
 ```bash
-`export VERSION='1.0.0' && ./gradlew build`
+export VERSION='1.0.0' && ./gradlew build
 ```
 ## Installation
 Jadx > 1.5.0 is required, please install the latest version of the Jadx unstable build. Then browse to the `Plugins > Install plugin` option and enter `file:<Jadx AI View jar file path>` or enter the location id: `github:devilx86:jadx-ai-view-plugin`. Alternatively install with the following command:
 ```bash
- jadx-gui plugins --install "github:devilx86:jadx-ai-view-plugin"
+jadx-gui plugins --install "github:devilx86:jadx-ai-view-plugin"
 ```
 
 ## Uninstallation
