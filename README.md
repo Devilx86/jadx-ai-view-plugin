@@ -11,6 +11,12 @@ Right Click on the class or method name and select the "*Show AI Analysis*" opti
 This opens up the jadx-ai-view window with the AI analysis output as seen below:<br/>
 <img src="./screenshots/ai-view.png" width="1000">
 
+## Prerequisites
+Install gpt4free if you plan on using the gpt4free option i.e:
+```bash
+python3 -m pip install g4f
+```
+
 ## Building
 Execute the following command to build the jar file:
 ```bash
